@@ -1,0 +1,7 @@
+#txt2img_gallery, #img2img_gallery {
+  height: 900px;
+}
+#txt2img_gallery .max-h-\[55vh\],
+#img2img_gallery .max-h-\[55vh\] {
+  max-height: 100%;
+}
